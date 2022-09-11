@@ -9,7 +9,7 @@ Pandas and time will already be present in any version of anaconda but to instal
 1) conda install -c anaconda beautifulsoup4
 2) conda install -c anaconda-forge requests
 
-Please change the header's user-agent to your perosnal user-agent, just type "My user agent" on google and paste the value to key 'User-Agent'.
+Please change the header's user-agent to your perosnal user-agent. Just type "My user agent" on google and paste the value to key 'User-Agent'.
 
 Make sure you use the right format as mentioned in the code while providing the link.
 
